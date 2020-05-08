@@ -7,6 +7,15 @@ h2 {
   color: red;
 }
 
+.important {
+  color: red;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
 p {
   color: crimson;
 }
